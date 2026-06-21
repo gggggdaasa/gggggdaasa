@@ -7,9 +7,15 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/mustafa-mahmoud-ali-583a04354" title="LinkedIn Profile"><img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="mailto:mustafamahmoudali98@gmail.com" title="Email"><img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg"> Email</a></code>
-  <code><a href="https://ais-pre-dxoawa6q7gxptripohdpgo-965060372108.europe-west2.run.app/" title="Portfolio"><img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlechrome.svg"> Portfolio</a></code>
+  <a href="https://www.linkedin.com/in/mustafa-mahmoud-ali-583a04354" title="LinkedIn Profile">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:mustafamahmoudali98@gmail.com" title="Email">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://ais-pre-dxoawa6q7gxptripohdpgo-965060372108.europe-west2.run.app/" title="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-1F4E79?style=for-the-badge&logo=googlechrome&logoColor=white">
+  </a>
 </h5>
 <br>
 <p align="center">
@@ -35,15 +41,15 @@
 <h2 align="center">🔥 Tools, Libraries & Skills 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
-  <code><img title="pandas" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"></code>
-  <code><img title="NumPy" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg"></code>
-  <code><img title="Microsoft Excel" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/excel/excel-original.svg"></code>
-  <code><img title="Seaborn" height="40" src="https://upload.wikimedia.org/wikipedia/commons/2/22/Seaborn_logo.png"></code>
-  <code><img title="Matplotlib" height="40" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg"></code>
-  <code><img title="SQL" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></code>
-  <code><img title="GitHub" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"></code>
-  <code><img title="Git" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
+  <img title="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img title="pandas" src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+  <img title="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+  <img title="Microsoft Excel" src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
+  <img title="Matplotlib" src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white">
+  <img title="Seaborn" src="https://img.shields.io/badge/Seaborn-444876?style=for-the-badge">
+  <img title="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img title="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img title="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </p>
 
 <p align="center">
